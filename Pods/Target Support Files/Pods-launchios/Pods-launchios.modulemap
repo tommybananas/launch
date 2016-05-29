@@ -1,0 +1,6 @@
+framework module Pods_launchios {
+  umbrella header "Pods-launchios-umbrella.h"
+
+  export *
+  module * { export * }
+}
